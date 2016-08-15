@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_data">Нет данных</string>
+    <string name="refresh">Обновить</string>
+    <string name="repeat">Повторить</string>
+
+</resources>

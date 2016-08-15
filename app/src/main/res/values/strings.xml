@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather test</string>
+    <string name="back_toast">Нажмите снова для выхода</string>
+    <string name="request_with_error">Запрос завершился с ошибкой</string>
+    <string name="cities">Города</string>
+    <string name="search">Поиск</string>
+    <string name="error_loading_cities">Не удалось загрузить города</string>
+    <string name="loading_forecast_error">Не удалось загрузить погоду</string>
+    <string name="max_min_temp">{0}°C / {1}°C</string>
+    <string name="temp">{0}°C</string>
+    <string name="humidity">Влажность: {0}%</string>
+    <string name="pressure">Давление {0} мм рт ст</string>
+</resources>
